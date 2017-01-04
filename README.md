@@ -38,4 +38,5 @@ Path = %NVM_HOME%;%NVM_SYMLINK%
 配置完成保存
 
 4.cmd命令行：nvm use 6.9.1（安装需要的版本），32位系统（nvm use 6.9.1 32），看到Now useing node v6.9.1表示安装成功
+
 同时会在nvm同级目录下有个nodejs快捷文件夹，想要那个版本就切换到那个版本，例如（nvm use 7.2.0）
