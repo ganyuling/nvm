@@ -74,3 +74,5 @@ PS：npm安装插件过程：从http://registry.npmjs.org下载对应的插件�
 
 安装：命令提示符执行npm install cnpm -g --registry=https://registry.npm.taobao.org
 使用和npm一样
+
+使用gulp推荐http://www.ydcss.com/archives/18
